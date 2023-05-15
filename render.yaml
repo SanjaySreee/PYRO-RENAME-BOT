@@ -14,18 +14,10 @@ services:
       - key: API_ID
         sync: false
       - key: API_HASH
-        sync: false
-      - key: FORCE_SUB
-        sync: false
-      - key: LOG_CHANNEL
-        sync: false
+        sync: false      
       - key: DB_NAME
         sync: false
       - key: DB_URL
-        sync: false
-      - key: START_PIC
-        sync: false
-      - key: ADMIN
         sync: false
       - key: WEBHOOK
         sync: false
